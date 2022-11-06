@@ -34,6 +34,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendario da Copa  é um projeto  que mostra os jogos da Copa de 2022.
 
+## LINK de Asseço
+(https://misacvaz.github.io/nlw-10-copa/)
+
 ## Layout
 Voce pode visualizar o layout do projeto atraves de[DESSE LINK] (https://www.figma.com/file/lZN8WqoBDBBuId8NIMkROX/Calend%C3%A1rio-de-Jogos-(Community)?node-id=175%3A1815). É necessário ter conta no [Figma] (https://figma.com) para  acessá-lo.
 
