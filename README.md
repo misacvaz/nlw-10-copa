@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Calendario da Copa  é um projeto  que mostra os jogos da Copa de 2022.
 
-## LINK de Asseço
+## LINK De Acesso
 (https://misacvaz.github.io/nlw-10-copa/)
 
 ## Layout
